@@ -27,8 +27,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    height: 50px;
+    height: 55px;
     width: 250px;
+}
+
+button.equal {
+    width: 120px;
 }
 
 button {
