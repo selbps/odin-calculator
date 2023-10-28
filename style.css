@@ -41,6 +41,7 @@ button {
     font-size: large;
     font-weight: bold;
     border-radius: 10px;
+    box-shadow: 4px 4px darkgray;
 }
 
 .button-container {
